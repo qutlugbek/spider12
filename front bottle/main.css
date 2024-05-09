@@ -1,0 +1,109 @@
+.tele{
+    width: 120px !important;
+}
+.tele1{
+    width: 170px !important;
+}
+.wid{
+    width: 300px !important;
+}
+.ma{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-left: 200px;
+}
+.md{
+    margin-left: 200px;
+    width: 800px !important;
+}
+.col{
+    background: rgba(51, 131, 110, 1);
+
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.wk{
+    width: 570px !important;
+}
+.left{
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 16px 9px rgba(34, 60, 80, 0.2);
+}
+.right{
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 16px 9px rgba(34, 60, 80, 0.2);
+
+}
+.father{
+    gap: 500px !important;
+}
+.tele2{
+    width: 1200px !important;
+}
+.text4{
+    width: 500px !important;
+}
+.input1 {
+    width: 471px;
+}
+.btn1 {
+    width: 202px;
+}
+.big-text{
+    width: 657px;
+}
+.text {
+    width: 1150px;
+    margin-left: 30px;
+}
+.img {
+    margin-top: 90px;
+    margin-left: 30px;
+}
+.circle:hover {
+    background-color: green;
+}
+
+.circle:hover {
+    color: white;
+}
+
+.circle {
+    width: 102px;
+    height: 102px;
+    background-color: green;
+    border-radius: 50%;
+    background-color: white;
+    top: -50px;
+
+    box-shadow: 0px 4px 22px 0px rgba(95, 95, 95, 0.1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text2 {
+    width: 360px;
+}
+.section {
+    margin-left: 30px;
+}
+.text4 {
+    width: 450px;
+}
+.picture {
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.text6 {
+    width: 367px;
+}
+.text8 {
+    width: 178px;
+}
+.text-de{
+    text-decoration: none;
+}
